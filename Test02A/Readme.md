@@ -1,7 +1,5 @@
 ﻿# POSE Test02A, 3ABIF/3AKIF
 
-![headline](line.png)
-
 Lernziele
 
 - Schleifen
