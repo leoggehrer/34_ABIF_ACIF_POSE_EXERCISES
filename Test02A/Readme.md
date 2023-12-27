@@ -11,3 +11,5 @@ Diese Aufgabe fordert die Entwicklung eines einfachen Textverschlüsselungsalgor
 In dieser Aufgabe soll ein Programm geschrieben werden, das aus einem gegebenen String einen Substring erstellt. Um den Substring zu definieren, müssen der Startindex im ursprünglichen Text und die gewünschte Länge des Substrings angegeben werden. Weitere Details sind in der Aufgabenstellung enthalten.
 
 Beide Aufgaben konzentrieren sich auf die Verarbeitung und Manipulation von Strings, eine wichtige Fähigkeit in der Programmierung.
+
+[Hier geht es zu den Aufgaben](Test02A.md)
