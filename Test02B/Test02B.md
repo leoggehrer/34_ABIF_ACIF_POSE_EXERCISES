@@ -1,43 +1,43 @@
-﻿# 1BHIF   Test 01, WS 20/21 
+﻿# POSE Test02B, 3ABIF/3AKIF
 
-**Hinweis: Es dür     fen keine String Standard-Methoden verwendet werden (außer Length)!!** 
+## 1. Letter Count (20 Punkte)
 
-**Letter Count (20)** 
+Lernziele
 
-Lehrziele: 
-
-- Strings, Schleifen 
+- Schleifen
+- Strings
+  
+**Hinweis: Es dürfen keine String Standard-Methoden verwendet werden (außer Length)!!**
 
 Es wird ein String und ein einzelnes Zeichen eingelesen. Das Programm berechnet, wie oft das einge- geben Zeichen in dem String auftritt. Zwischen Groß- und Kleinschreibung WIRD UNTERSCHIEDEN (also ‘a‘ != ‘A‘) Orientieren Sie sich bei der Ausgabe an der Musterausgabe:  
 
-![](Aspose.Words.91174545-1e8a-4a75-b8c3-f15e76c2cb1b.001.jpeg)
+![Letter Count Dialog](letter_count_dialog.jpeg)
 
-**Delete Characters (30)** 
+## 2. Delete Characters (30 Punkte)
 
-Lehrziele: 
+Lernziele
 
-- Strings, Schleifen 
-
-Schreiben Sie ein Programm, welches vom Benutzer einen beliebigen Text einliest. Eine zweite Zeichenfolge enthält alle Zeichen, die aus dem ersten Text entfernt werden. Erzeugen Sie eine Zeichenfolge aus dem eingegebenen Text und eliminieren dabei alle Zeichen die in der zweiten Zeichenfolge enthalten sind. 
+- Schleifen
+- Strings
+  
+Schreiben Sie ein Programm, welches vom Benutzer einen beliebigen Text einliest. Eine zweite Zeichenfolge enthält alle Zeichen, die aus dem ersten Text entfernt werden. Erzeugen Sie eine Zeichenfolge aus dem eingegebenen Text und eliminieren dabei alle Zeichen die in der zweiten Zeichenfolge enthalten sind.
 
 Hinweis: Benutzereingaben dürfen im ganzen Programm nicht verändert werden und müssen erhalten bleiben. Zwischen Groß- und Kleinschreibung WIRD UNTERSCHIEDEN. 
 
-![](Aspose.Words.91174545-1e8a-4a75-b8c3-f15e76c2cb1b.002.png)
+![Delete Characters Dialog](delete_characters_dialog.png)
 
-**Filter Numbers (50)** 
+## 3. Filter Numbers (50 Punkte)
 
-Lehrziele: 
+Lehrziele
 
-- Strings 
-- Geschachtelte Schleifen 
+- Strings
+- Geschachtelte Schleifen
 
 Ein Programm extrahiert aus dem eingegebenen Text alle Ziffern (0, 1, 2, … 9). Kommt eine Ziffer mehrfach vor, so soll die Ziffer beim String der gefundenen Ziffern nur einmal angeführt werden. **Alle** gefundenen Ziffern sollen zusammengezählt und die Summe ausgegeben werden. Orientieren Sie sich bei der Ausgabe an der Musterausgabe:  
 
-![](Aspose.Words.91174545-1e8a-4a75-b8c3-f15e76c2cb1b.003.jpeg)
+![Filtered Numbers Dialog](filtered_numbers_dialog.jpeg)
 
-Verwenden Sie mindestens folgende Testfälle: 
-
-
+Verwenden Sie mindestens folgende Testfälle:
 
 |**Eingabe** |**Ausgabe** |**Anzahl** |**Summe** |
 | - | - | - | - |
@@ -53,8 +53,9 @@ Verwenden Sie mindestens folgende Testfälle:
 
 Tipps:  
 
-1) Im Ersten Schritt erstellen Sie nur das Grundgerüst um die Überschrift auszugeben, den Text einzulesen und bei der Eingabe eines Leerstrings (““) das Programm zu beenden. Testen Sie das sofort. 
-1) Im nächsten Schritt gehen Sie die Eingabe mit einer geeigneten Schleife Zeichen für Zeichen durch und prüfen jedes Zeichen, ob es eine Ziffer ist. Falls ja, fügen Sie diese zu einem String, der alle Ziffern enthält, zusammen. Zählen Sie gleich mit, wie viele Ziffern sie gefunden haben. Wandeln Sie die gefundene Ziffer in eine Zahl um und summieren Sie diese auf. Testen Sie Ihr Programm, ob es alle Ziffern findet, die Anzahl der Ziffern korrekt berechnet und die Summe richtig berechnet. 
-1) Im letzten Schritt überlegen Sie sich, wie Sie in dem String, der die Ziffern enthält, keine doppelten Einträge generieren. 
-1) UND …, VERWENDEN SIE DEN DEBUGGER!!! 
-Viel Glück!! 
+1) Im Ersten Schritt erstellen Sie nur das Grundgerüst um die Überschrift auszugeben, den Text einzulesen und bei der Eingabe eines Leerstrings (““) das Programm zu beenden. Testen Sie das sofort.
+1) Im nächsten Schritt gehen Sie die Eingabe mit einer geeigneten Schleife Zeichen für Zeichen durch und prüfen jedes Zeichen, ob es eine Ziffer ist. Falls ja, fügen Sie diese zu einem String, der alle Ziffern enthält, zusammen. Zählen Sie gleich mit, wie viele Ziffern sie gefunden haben. Wandeln Sie die gefundene Ziffer in eine Zahl um und summieren Sie diese auf. Testen Sie Ihr Programm, ob es alle Ziffern findet, die Anzahl der Ziffern korrekt berechnet und die Summe richtig berechnet.
+1) Im letzten Schritt überlegen Sie sich, wie Sie in dem String, der die Ziffern enthält, keine doppelten Einträge generieren.
+1) UND …, VERWENDEN SIE DEN DEBUGGER!!!
+
+Viel Glück!!

@@ -1,12 +1,12 @@
 ﻿# POSE Test02A, 3ABIF/3AKIF
 
+## 1. ROT 13 (35 Punkte)
+
 Lernziele
 
 - Schleifen
 - Strings
   
-## 1. ROT 13 (35 Punkte)
-
 **Hinweis: Es dürfen keine String Standard-Methoden verwendet werden (außer Length)!!**
 
 Ihr Programm realisiert einen einfachen Verschlüsselungsalgorithmus für Texte. Dabei werden nur die ASCII- Klein- und Großbuchstaben durch jenen Buchstaben ersetzt, der 13 Positionen entfernt ist. Alle anderen Zeichen (Ziffern, Sonderzeichen, Umlaute, …) bleiben unverändert.
@@ -34,6 +34,11 @@ Beispieldialog:
 
 ## 2. Filtered Substring
 
+Lernziele
+
+- Schleifen
+- Strings
+  
 Schreiben Sie ein Programm welches aus einem gegebenen String einen Substring erzeugt. Um den Substring zu definieren, muss dessen Startindex im ursprünglichen Eingabetext und die gewünschte Länge des Substrings angegeben werden.
 
 Randbedingungen:
