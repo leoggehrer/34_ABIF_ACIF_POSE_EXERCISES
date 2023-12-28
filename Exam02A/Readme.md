@@ -12,4 +12,4 @@ In dieser Aufgabe soll ein Programm geschrieben werden, das aus einem gegebenen 
 
 Beide Aufgaben konzentrieren sich auf die Verarbeitung und Manipulation von Strings, eine wichtige Fähigkeit in der Programmierung.
 
-[Hier geht es zu den Aufgaben](Test02A.md)
+[Hier geht es zu den Aufgaben](Exam02A.md)
