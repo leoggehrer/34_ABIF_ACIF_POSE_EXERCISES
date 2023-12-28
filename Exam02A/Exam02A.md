@@ -1,6 +1,6 @@
 ﻿# POSE Test02A, 3ABIF/3AKIF
 
-## 1. ROT 13 (35 Punkte)
+## 1. ROT 13 (40 Punkte)
 
 Lernziele
 
@@ -32,7 +32,7 @@ Beispieldialog:
 
 ![ROT13 Dialog](rot13_dialog.png)
 
-## 2. Filtered Substring
+## 2. Filtered Substring (40 Punkte)
 
 Lernziele
 
@@ -53,7 +53,7 @@ Randbedingungen:
 
       Die Länge wird automatisch auf 2 begrenzt, da ab Index 3 nur noch 2 Buchstaben ("lo") im Eingabestring vorhanden sind. Somit wird ein Laufzeitfehler (System.OutOfRangeException) vermieden.
 
-**Zusatz-Feature:** Der Benutzer kann noch Zeichen angeben, die er aus dem extrahierten Substring rausfiltern will. Es wird zwischen Groß- und Kleinschreibung unterschieden ('a' ist ungleich 'A').
+**Zusatz-Feature (20 Punkte):** Der Benutzer kann noch Zeichen angeben, die er aus dem extrahierten Substring rausfiltern will. Es wird zwischen Groß- und Kleinschreibung unterschieden ('a' ist ungleich 'A').
 
 Die Eingabe wird beendet in dem der Benutzer einen leeren String eingibt (nur die Enter-Taste drückt).
 
