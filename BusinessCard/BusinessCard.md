@@ -2,7 +2,7 @@
 
 Lehrziele
 
-- Verwendung von Kommentaren
+- Die Verwendung von Kommentaren in Quellcode Dateien
 - Die Ausgabe von formatiertem Text auf die Konsole
 
 ## Aufgabenstellung
