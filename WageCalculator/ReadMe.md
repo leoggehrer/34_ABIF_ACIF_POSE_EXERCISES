@@ -18,4 +18,4 @@ Eingabe:
 
 Ausgabe:
 
-<*name*> hat in <*Arbeitsstunden*> Stunden <*Stundenlohn \* Arbeitsstunden*> EUR verdient.
+    <name> hat in <Arbeitsstunden> Stunden <Stundenlohn \ Arbeitsstunden> EUR verdient.
