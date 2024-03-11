@@ -1,6 +1,4 @@
-# POSE
-
-## POSE WordShuffle, 3ABIF/3AKIF
+﻿# POSE WordShuffle, 3ABIF/3AKIF
 
 Lehrziele
 
@@ -8,7 +6,7 @@ Lehrziele
 - Konsoleneingabe
 - Konsolenausgabe
 
-### Aufgabenstellung
+## Aufgabenstellung
 
 Sie geben über die Konsole 3 Begriffe ein. Schreiben Sie ein Programm, das alle 6 möglichen Kombinationen dieser 3 Begriffe ausgibt.  
 

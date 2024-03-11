@@ -1,13 +1,11 @@
-# POSE
-
-## POSE BussinesCard, 3ABIF/3AKIF
+﻿# POSE BussinesCard, 3ABIF/3AKIF
 
 Lehrziele
 
 - Die Verwendung von Kommentaren in Quellcode Dateien
 - Die Ausgabe von formatiertem Text auf die Konsole
 
-### Aufgabenstellung
+## Aufgabenstellung
 
 Lesen Sie von der Konsole Name und Wohnort einer Person in zwei Variablen ein und geben Sie danach eine Visitenkarte aus.
 

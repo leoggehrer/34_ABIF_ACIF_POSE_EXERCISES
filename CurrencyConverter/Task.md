@@ -1,6 +1,4 @@
-# POSE
-
-## POSE CurrencyConverter, 3ABIF/3AKIF
+﻿# POSE CurrencyConverter, 3ABIF/3AKIF
 
 Lehrziele
 
@@ -13,7 +11,7 @@ Lehrziele
 
 - Einfache Verzweigungen
 
-### Aufgabenstellung
+## Aufgabenstellung
 
 Der User wird aufgefordert, über die Tastatur einen ganzzahligen Betrag in Euro einzugeben. Das Programm berechnet daraus auf Basis des aktuellen Tageskurses (Internet, mindestens 4 Nachkommastellen) den genauen Wechselbetrag in US-Dollar und in Schweizer Franken.
 
@@ -23,6 +21,6 @@ Es muss nicht überprüft werden, ob die Eingabe wirklich eine gültige positive
 
 ![Benutzerdialog](dialog.png)
 
-#### Erweiterte Anforderungen für Spezialisten
+### Erweiterte Anforderungen für Spezialisten
 
 Der User wird zuerst aufgefordert, welche Währung er/sie als Basis verwenden möchte (D=Dollar, E=Euro, F=Franken). Der Währungsrechner ermittelt dann die Beträge für die verbleibenden beiden Währungen.

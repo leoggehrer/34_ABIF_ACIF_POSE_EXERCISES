@@ -1,13 +1,11 @@
-# POSE
-
-## BinaryAdder, 3ABIF/3AKIF
+# BinaryAdder, 3ABIF/3AKIF
 
 Lehrziele
 
 - Stringbearbeitung
 - Methoden
 
-### Aufgabenstellung
+## Aufgabenstellung
 
 Ihr Programm liest zwei (beliebig lange) Binärzahlen ein und addiert sie. Die Benutzerführung hat sich an der unten stehenden Vorgabe zu orientieren
 

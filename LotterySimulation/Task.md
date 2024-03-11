@@ -30,4 +30,4 @@ Ziel ist es, die Aufgabe in einer möglichst geringen Laufzeit zu lösen!
 
 Bildschirmausgabe:
 
-![Output](ReadMe.002.png)
+![Output](Task.002.png)

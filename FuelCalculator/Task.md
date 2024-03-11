@@ -1,13 +1,11 @@
-# POSE
-
-## POSE FuelCalculator, 3ABIF/3AKIF
+# POSE FuelCalculator, 3ABIF/3AKIF
 
 Lehrziele
 
 - Einfache Verzweigung
 - Verkettung von Verzweigungen (if .. else if ..)
 
-### Aufgabenstellung
+## Aufgabenstellung
 
 Schreiben Sie ein C# Programm, welches den Durchschnittsverbrauch Ihres KFZ berechnet, und einen Kommentar zum Verbrauch Ihres Autos ausgibt. Die Ein/Ausgabe soll folgendermaßen aussehen:
 

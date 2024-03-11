@@ -1,6 +1,4 @@
-# POSE
-
-## POSE Calculator, 3ABIF/3AKIF
+﻿# POSE Calculator, 3ABIF/3AKIF
 
 Lehrziele
 
@@ -8,9 +6,9 @@ Lehrziele
 - und eines einfachen Rechenoperators (+).
 - Die Ausgabe von Texten und formatierten Zahlen auf die Konsole.
 
-### Aufgabenstellung
+## Aufgabenstellung
 
-#### Addition ganzer Zahlen
+### Addition ganzer Zahlen
 
 Schreiben Sie ein Programm in der Quellcode-Datei ‚***Calculator.cs***‘, welches zwei ganze Zahlen von der Konsole einliest,  diese beiden Zahlen addiert, und die gesamte Rechnung rechtsbündig formatiert auf die Konsole ausgibt.
 
@@ -25,7 +23,7 @@ Testen Sie das Programm ausführlich mit sehr großen und sehr kleinen, also pos
 - Finden Sie heraus, wieviel Platz Sie für die größte und die kleinste Zahl benötigen!
 - Nach dem Rechenoperator „+“ sollte noch ein Leerzeichen Platz finden, bevor die Zahl beginnt.
 
-#### Addition von Gleitkommazahlen
+### Addition von Gleitkommazahlen
 
 Erstellen Sie ein neues Programm in der Datei „***FloatingPointCalculator.cs***“, welches denselben Ablauf vorsieht wie in Aufgabe 1, allerdings werden diesmal **Gleitkommazahlen** anstelle von ganzen Zahlen addiert. Bei der Ausgabe der Rechnung auf die Konsole sollen dabei fix  4 Nachkommastellen vorgesehen werden.
 
