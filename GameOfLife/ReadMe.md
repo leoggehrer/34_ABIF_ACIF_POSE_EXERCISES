@@ -69,10 +69,14 @@ int[,] CreateNextGeneration(int[,] currentField)
 1. Am Beginn soll der Benutzer eingeben können, wie viele Zellen am Anfang belebt werden sollen. Beachten Sie, dass es hierbei eine Maximalanzahl gibt!
 2. Nun sollen entsprechend viele
 Zellen zufällig mit Leben gefüllt werden (auf true gesetzt werden). Verwenden Sie dazu die Random-Klasse.
+
 ![Illustration](Task.002.png)
-3. Als nächstes soll diese anfängliche Verteilung der Leben im zweidimensionalen Array auf die Console gezeichnet werden. Schreiben Sie dazu ein „x“ für jede lebende Zelle auf die Console.
+
+4. Als nächstes soll diese anfängliche Verteilung der Leben im zweidimensionalen Array auf die Console gezeichnet werden. Schreiben Sie dazu ein „x“ für jede lebende Zelle auf die Console.
+
 ![Illustration](Task.003.png)
-4. Erst mit einer Benutzereingabe startet die Simulation, in der bis zu einer maximalen Anzahl von Lebenszyklen folgende Schritte durchgeführt werden:
+
+5. Erst mit einer Benutzereingabe startet die Simulation, in der bis zu einer maximalen Anzahl von Lebenszyklen folgende Schritte durchgeführt werden:
 
    - Zuerst muss ein neues zwei-dimensionales Array erzeugt und mit allen lebenden Zellen gefüllt werden, die sich aus dem Zustand in dem alten Array ergeben. Beachten Sie dabei die obigen Regeln (lebende Zellen können sterben, neue Zellen können geboren werden).
    - Das alte Array wird danach nicht mehr benötigt und wird durch das neue Array ersetzt.
