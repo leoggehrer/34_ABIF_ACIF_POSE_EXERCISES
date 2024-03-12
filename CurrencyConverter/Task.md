@@ -1,4 +1,4 @@
-﻿# POSE CurrencyConverter, 3ABIF/3AKIF
+﻿# CurrencyConverter
 
 Lehrziele
 

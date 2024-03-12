@@ -1,4 +1,4 @@
-﻿# POSE BussinesCard, 3ABIF/3AKIF
+﻿# BussinesCard
 
 Lehrziele
 

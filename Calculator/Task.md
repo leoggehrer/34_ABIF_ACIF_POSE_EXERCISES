@@ -1,4 +1,4 @@
-﻿# POSE Calculator, 3ABIF/3AKIF
+﻿# Calculator
 
 Lehrziele
 

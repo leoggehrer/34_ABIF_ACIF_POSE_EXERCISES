@@ -1,4 +1,4 @@
-# POSE FuelCalculator, 3ABIF/3AKIF
+# FuelCalculator
 
 Lehrziele
 

@@ -1,4 +1,4 @@
-# BinaryAdder, 3ABIF/3AKIF
+# BinaryAdder
 
 Lehrziele
 

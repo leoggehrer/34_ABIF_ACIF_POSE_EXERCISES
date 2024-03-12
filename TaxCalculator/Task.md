@@ -1,4 +1,4 @@
-# POSE TaxCalculator, 3ABIF/3AKIF
+# TaxCalculator
 
 Lehrziele
 

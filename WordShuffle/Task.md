@@ -1,4 +1,4 @@
-﻿# POSE WordShuffle, 3ABIF/3AKIF
+﻿# WordShuffle
 
 Lehrziele
 

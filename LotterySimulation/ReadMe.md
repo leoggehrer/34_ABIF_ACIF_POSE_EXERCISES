@@ -1,11 +1,13 @@
-# LotterySimulation
+# POSE 3ABIF/3AKIF
+
+## LotterySimulation
 
 Lehrziele:
 
 - Zweidimensionale Arrays
 - Methoden (Vertiefung)
 
-## Aufgabenstellung
+### Aufgabenstellung
 
 Im beiliegenden Projekt werden von mir 1.000.000 Lottotipps erzeugt und in einem zweidimensionalen Array abgelegt. Dann wird eine Lottoziehung simuliert und im Array int[] thrownNumbers werden sechs Lottozahlen in gezogener Reihenfolge abgelegt.
 

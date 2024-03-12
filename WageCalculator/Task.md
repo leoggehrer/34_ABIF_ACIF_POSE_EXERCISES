@@ -1,5 +1,5 @@
 
-# POSE WageCalculator, 3ABIF/3AKIF
+# WageCalculator
 
 Lehrziele
 

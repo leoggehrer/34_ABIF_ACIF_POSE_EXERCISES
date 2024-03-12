@@ -1,4 +1,4 @@
-﻿# POSE PiggyBank, 3ABIF/3AKIF
+﻿# PiggyBank
 
 Lehrziele
 
