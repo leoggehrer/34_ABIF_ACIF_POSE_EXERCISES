@@ -42,7 +42,7 @@ Folgende Methoden und Funktionen sollen implementiert werden:
 - static void SortRacersByTime(Racer[] racers)  // Sortiert resultList nach Zeit der Biker
 - static void SetTimeBySeconds(Racer[] racers)  // Setzt die Zeit in Sekunden
 - static void PrintRacers(Racer[] racers)       // Gibt die Biker am Bildschirm aus
-- static BikerData[] GetFirstThreeBiker(Racer[] racers) // Ermittelt die ersten 3 Biker
+- static Race[] GetFirstThreeBiker(Racer[] racers) // Ermittelt die ersten 3 Biker
 - static double CalculateAverageTime(Racer[] racers) // Durchschnitt über alle Rennzeiten
 - static void WriteRacersToFile(string fileName, Racer[] racers)     // Schreibt die Daten in die angegebene Datei
 
